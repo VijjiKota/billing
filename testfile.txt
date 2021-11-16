@@ -1,1 +1,3 @@
 THis file is to test for branching works.
+Writing new lines.
+For testing merge conflict resolve.
